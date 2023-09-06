@@ -24,9 +24,9 @@
 🤖 AI Image Generation
 🌐 Online Presence:
 
-Github: https://github.com/Lahiru-LK
-Facebook: https://www.facebook.com/lahirupresath.lahiru?mibextid=2JQ9oc
-YouTube: https://www.youtube.com/channel/UCJy2PM88p6TuOG-qOjURK7w
+Github: https://github.com/Lahiru-LK <br>
+Facebook: https://www.facebook.com/lahirupresath.lahiru?mibextid=2JQ9oc <br>
+YouTube: https://www.youtube.com/channel/UCJy2PM88p6TuOG-qOjURK7w <br>
 
 🎥 Whether it's crafting captivating YouTube content, designing eye-catching logos, or bringing 3D worlds to life with Blender, I'm your creative ally. Let's collaborate and turn your visions into digital masterpieces!
 
